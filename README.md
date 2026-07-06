@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Entity Relationship Diagram (ERD)
 
 ## Smart Lender – Loan Approval Prediction System
@@ -191,3 +192,6 @@ Prediction Result (Approved / Rejected)
 ## Conclusion
 
 The Entity Relationship Diagram provides a clear and organized database design for the Smart Lender Loan Approval Prediction System. It establishes relationships between users, applicant profiles, credit history, loan applications, prediction results, and the machine learning model. This structure supports efficient data management, maintains data integrity, and enables accurate loan approval predictions using the XGBoost algorithm.
+=======
+
+>>>>>>> 2a39501cb5109acdef8f9b2b458dc923d876ab1b

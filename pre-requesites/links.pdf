@@ -1,0 +1,48 @@
+Description
+The Smart Lender project was developed using a collection of Python-based tools,
+libraries, and frameworks that support data preprocessing, visualization, machine learning
+model development, and web application deployment. These technologies enable efficient
+data analysis, model training, and seamless deployment of the loan prediction system.
+Tools and Technologies Used
+1. Anaconda Navigator
+Description:
+Anaconda Navigator is a graphical user interface (GUI) that simplifies the management of
+Python environments, packages, and data science applications. It provides an easy way to
+launch tools such as Jupyter Notebook and Spyder without using command-line
+instructions.
+Purpose in Smart Lender:
+• Manage Python environments
+• Install required machine learning libraries
+• Launch data science applications
+Official Link:
+https://www.anaconda.com/download
+2. PyCharm
+Description:
+PyCharm is a Python Integrated Development Environment (IDE) developed by JetBrains. It
+provides intelligent code completion, debugging, testing, and project management
+features for Python applications.
+Purpose in Smart Lender:• Develop Python scripts
+• Debug machine learning code
+• Manage project files efficiently
+Official Link:
+https://www.jetbrains.com/pycharm/
+3. NumPy
+Description:
+NumPy is a fundamental Python library for numerical computing. It supports large
+multidimensional arrays and provides mathematical functions required for efficient data
+processing.
+Purpose in Smart Lender:
+• Numerical computations
+• Array operations
+• Mathematical calculations
+Official Link:
+https://numpy.org/doc/stable/
+4. Pandas
+Description:
+Pandas is a powerful data manipulation and analysis library that provides data structures
+such as DataFrames for handling structured datasets.
+Purpose in Smart Lender:
+• Read the loan dataset
+• Clean and preprocess data
+• Handle missing values
+• Analyze applicant information
